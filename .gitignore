@@ -26,3 +26,6 @@ images/*
 # --- IDE specific ---
 .vscode/
 .idea/
+
+# --- Temporary Training Files ---
+**/catboost_info/
