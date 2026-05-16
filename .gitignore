@@ -1,0 +1,28 @@
+# --- Datasets ---
+data/
+
+# --- Jupyter Notebook artifacts ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Python environment and bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# --- Large Model Files ---
+models/*.json
+models/*.bin
+models/*.model
+
+# --- Submissions ---
+submissions/*.csv
+
+# --- Images ---
+images/*
+
+# --- IDE specific ---
+.vscode/
+.idea/
