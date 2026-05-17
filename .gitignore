@@ -29,3 +29,7 @@ images/*
 
 # --- Temporary Training Files ---
 **/catboost_info/
+
+# --- Report ---
+*.pdf
+*.docx
